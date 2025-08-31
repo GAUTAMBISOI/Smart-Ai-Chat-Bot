@@ -44,6 +44,13 @@ Smart-Ai-Chat-Bot/
 │── package.json
 │── README.md
 
+## 📸 Screenshots
+
+### 🌞 Light Mode
+![Light Mode](./screenshots/light-mode.png)
+
+### 🌙 Dark Mode
+![Dark Mode](./screenshots/dark-mode.png)
 yaml
 Copy code
 
@@ -93,10 +100,4 @@ Then drag and drop the dist/ folder to Netlify.
 ⭐ Contribute
 If you like this project, give it a ⭐ on GitHub!
 
-## 📸 Screenshots
 
-### 🌞 Light Mode
-![Light Mode](./screenshots/light-mode.png)
-
-### 🌙 Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
